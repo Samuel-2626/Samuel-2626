@@ -3,8 +3,8 @@
 ```cli
 Samuel-2626@github:~ $ DevSam
 
-  • 😎 Python(Django) developer
-  • 😃 React-Native enthusiast
+  • 😎 Python (Django) developer
+  • 😃 React & React-Native enthusiast
 ```
 
 ### :octocat: My stats
