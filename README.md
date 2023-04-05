@@ -19,5 +19,5 @@ Samuel-2626@github:~ $ DevSam
 <p>
   <a href="https://twitter.com/SamuelTorimiro4"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/samuel-torimiro-6b97a71a0/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/50/000000/instagram.png" alt="stackoverflow"/></a>
+  <a href="https://www.instagram.com/devsam1611/"><img src="https://img.icons8.com/color/50/000000/instagram.png" alt="stackoverflow"/></a>
 <p>
