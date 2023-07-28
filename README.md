@@ -7,8 +7,6 @@ I'm a passionate Software engineer and Technical writer.
 
 **About me**
 
-- 💼 Software engineer and Technical writer at [Tridens Technology](https://tridenstechnology.com/)
-
 - 📈 Started web development at age 15
 
 - 💬 Written over 10+ tech articles/tutorials
