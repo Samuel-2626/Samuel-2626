@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a passionate Software Engineer and Technical Writer.
+I'm a passionate Software Developer.
 
 **About me**
 
