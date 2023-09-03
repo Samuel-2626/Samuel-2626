@@ -7,7 +7,7 @@ I'm a passionate Software Developer.
 
 **About me**
 
-- 💼 Experienced in Python, JavaScript & PHP.
+- 💼 Experienced in Python, JavaScript and PHP.
 
 - 📈 Started web development at age 15
 
