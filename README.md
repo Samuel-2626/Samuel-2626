@@ -5,7 +5,7 @@
 
 I'm a passionate Software Developer.
 
-**More things to know about me**
+**More things to know about me:**
 
 - 💼 Experienced in Python, JavaScript and PHP.
 
