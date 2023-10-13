@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! I'm Samuel Torimiro</h1>
+<h1 align="center">Hello! my name is Samuel Torimiro</h1>
 
 <br />
 
