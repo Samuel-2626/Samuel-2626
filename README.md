@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a passionate Software Developer.
+I'm a skillful Software Developer.
 
 **More things to know about me:**
 
