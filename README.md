@@ -7,7 +7,7 @@ I'm a skillful Software Developer.
 
 **More things to know about me:**
 
-- 💼 Experienced in Python, JavaScript, and PHP.
+- 💼 Experienced in Python, JavaScript, PHP, and SQL.
 
 - 📈 Started web development at age 15
 
